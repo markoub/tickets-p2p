@@ -1,0 +1,14 @@
+---
+description: how to implent github issues
+globs: 
+alwaysApply: false
+---
+When implementing issue, make sure to follow these steps:
+- Fetch the next open issue in chronolocical order. Based on #, very important
+- create test (api for backend functionality or e2e playwright for frontend)
+- implement required features
+- make sure test passes
+- create new branch based on issue number
+- commit changes
+- create a pull request
+- leave a comment on github issue
