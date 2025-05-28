@@ -8,4 +8,5 @@ passlib[bcrypt]
 python-dotenv
 pytest
 pytest-asyncio
-httpx 
+httpx
+email-validator 
